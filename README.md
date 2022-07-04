@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Miyaah
 - 👀 I’m interested in Python programming 🐍
 - 🌱 I’m currently learning Android software development 🤖
-- 💞️ I’m looking to collaborate on nothing not yet 👨‍💻
+- 💞️ looking to collaborate on nothing not yet 👨‍💻
 - 📫 How to reach me just DM mee!! 📩
 
 <!---
